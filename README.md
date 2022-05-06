@@ -7,5 +7,7 @@ A web application that allows users to:
 - As an admin, add new stocks to the market
 
 **Front end development:-** ReactJS
+
 **Back end development:-** Spring Boot
+
 **Database used:-** PostgreSQL
